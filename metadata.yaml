@@ -1,4 +1,8 @@
 _repo: Via-Crucis-A-Romance-of-the-Second-Crusade_6350
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Crawford, F. Marion (Francis Marion)
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1316
     wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6350#Via-Crucis-A-Romance-of-the-Second-Crusade
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
